@@ -8,4 +8,4 @@ Key learning outcomes include the ability to effectively represent and manipulat
 
 The provided PNG plot visualizes the comparison between finite difference approximations (forward, backward, and central) and the exact derivative of the function sin(x) at x=1. It illustrates how the approximations converge to the exact derivative as the step size (h) varies. The plot aims to depict the accuracy and stability of each finite difference method, offering a visual understanding of the impact of step size on the precision of numerical derivatives. This graphical representation serves as a crucial tool for analyzing the effectiveness of the numerical methods used in the assignment.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Leon-Long-Portfolio/Parallel-Programming-EC526/blob/main/Foundation/Doc/error_plot.png)
