@@ -1,4 +1,4 @@
-# Parallel Programming EC526
+# Parallel Programming
 
 This High Performance Computing (HPC) course is designed to equip students with a profound understanding and practical proficiency in the intersection of HPC, Big Data, Machine Learning, and Cloud Computing. The course's backbone is rooted in mastering parallel algorithms and distributed data structures, crucial for advancements in scientific, engineering, and industrial domains. Students delve into a diverse array of computational topics, including FFTs, Dense and Sparse Linear Algebra, and techniques for handling both structured and unstructured grids. The curriculum is further enriched by hands-on application of these concepts to physical systems, explored through Multigrid Solvers, Molecular Dynamics, Monte Carlo Sampling, and Finite Element Analysis.
 
